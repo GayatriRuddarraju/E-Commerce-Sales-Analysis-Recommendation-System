@@ -76,7 +76,6 @@ This project demonstrates the integration of data analysis, visualization, and b
 
 
 ## Author
-
 Gayatri Devi Ruddarraju
 - **Email Id:** gayatrideviruddarraju@gmail.com
 - **LinkedIn:** http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
