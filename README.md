@@ -61,24 +61,22 @@ This project focuses on analyzing e-commerce transactional data to extract meani
 Run all cells in: "E-Commerce Sales Analysis Project.ipynb"
 
 ### 2 Run Streamlit App
-
 - streamlit run app.py
-
 👉 Open in browser:
 http://localhost:8501
 
 
 ### 3 Open Power BI Dashboard
-
 - Open Power BI Desktop
 - Load file: "E-Commerce Sales Analysis Dashboard.pbix"
 
 ## 🚀 Conclusion
+
 This project demonstrates the integration of data analysis, visualization, and basic machine learning to solve real-world business problems. It highlights how data-driven insights can support better decision-making and improve sales strategies.
 
 
 ## Author
-Gayatri Devi Ruddarraju
-Email: gayatrideviruddarraju@gmail.com
-LinkedIn: https://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269/
 
+Gayatri Devi Ruddarraju
+- **Email Id:** gayatrideviruddarraju@gmail.com
+- **LinkedIn:** http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
